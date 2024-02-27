@@ -1,4 +1,4 @@
-# Lenguaje de programacion C++
+# Lenguaje de programacion F#
 
 El lenguaje de programación F# fue diseñado por Don Syme en Microsoft Research a principios de los años 2000, con su primera versión estable lanzada en 2005. Es un lenguaje de programación funcional de alto nivel que se ejecuta en la plataforma .NET, ofreciendo una integración fluida con lenguajes imperativos como C# y herramientas del ecosistema .NET.
 
